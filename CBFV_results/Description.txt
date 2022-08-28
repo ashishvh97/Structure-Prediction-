@@ -1,1 +1,2 @@
-This folder holds the code and results of structure prediction using three composition based feature vectors - SkipAtom, MatScholar and Magpie
+This folder holds the code and results of structure prediction using three composition based feature vectors - SkipAtom, MatScholar and Magpie.
+The Pearson Correlation Coefficient was used to estimate linear association between a pair of feature vectors in this example. 
