@@ -1,0 +1,1 @@
+The code and results for structure prediction using default data-mined lambda values and shannon radii based lambda values.
